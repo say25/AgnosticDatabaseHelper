@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgnosticDatabaseHelper", "AgnosticDatabaseHelper\AgnosticDatabaseHelper.csproj", "{024FE2BC-C614-427B-9E6C-184F7790A911}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{024FE2BC-C614-427B-9E6C-184F7790A911}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{024FE2BC-C614-427B-9E6C-184F7790A911}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{024FE2BC-C614-427B-9E6C-184F7790A911}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{024FE2BC-C614-427B-9E6C-184F7790A911}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFEBF259-954B-48A1-96A0-A009FFDF4C86}
+	EndGlobalSection
+EndGlobal
