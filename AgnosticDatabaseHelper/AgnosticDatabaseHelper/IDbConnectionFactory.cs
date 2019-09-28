@@ -5,7 +5,7 @@ namespace AgnosticDatabaseHelper
     public interface IDbConnectionFactory
     {
         /// <summary>
-        /// Returns NpgsqlConnection
+        /// Returns DbConnection
         /// It does NOT manage the disposal of said connections.
         /// </summary>
         /// <returns></returns>
